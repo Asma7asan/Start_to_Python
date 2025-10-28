@@ -1,0 +1,14 @@
+name = "Asma"   #string
+age = 25        #int
+hight = 1.60    #float
+active = True   #bool
+print(name)
+print(age)
+print(hight)
+print(active)
+
+#print type of variable
+print(type(name))
+print(type(age))
+print(type(hight))
+print(type(active))

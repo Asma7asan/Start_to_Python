@@ -1,0 +1,4 @@
+#input name of user
+print("Hello In Python")
+name=input("What is your name ?")
+print("Welcom "+ name)
